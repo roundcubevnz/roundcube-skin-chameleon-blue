@@ -1,8 +1,7 @@
-#Chameleon Blue (roundcube skin)
-[![Donate via paypal](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://www.paypal.me/kosko/10 "Consider donation")
+#Chameleon Blue Compact (roundcube skin)
 
 
-Chameleon Blue basically are blue customization of [Chameleon](https://git.kolab.org/diffusion/RSC/) by Kolab Community.
+Chameleon Blue Compact is a customization of [Chameleon Blue](https://github.com/Anisotropic/Chameleon-blue), by Pavel Kosko aka Skolzyashiy, which is a customization of [Chameleon](https://git.kolab.org/diffusion/RSC/) by [Kolab Community](https://kolab.org/community).
 
 
 ![Preview of Chameleon Blue](preview.png "Preview of Chameleon Blue")
