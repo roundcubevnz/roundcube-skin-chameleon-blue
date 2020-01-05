@@ -9,7 +9,7 @@ also known as Kolab Enterprise Web Client Skin.
 
 Just copy it content as `chameleonb` directory into your Roundcube instance/skins directory.
 
-**Chameleonb depends on Larry, so this skin must be installed too.**
+**Chameleonb depends on Larr skin installed and name must be "chameleonb".**
 
 ## Hacking
 
